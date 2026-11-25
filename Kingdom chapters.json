@@ -3,7 +3,7 @@
   "description": "بعد مرور القرون والقرون على إنقضاء العصر القديم، وكذلك قد ولى زمن القديسين وانتهى، في وقت أطلق فيه الرجال العنان لرغباتهم؛ إنه عهد حرب الخمسمائة عام الكبرى أي حقبة الممالك المتناحرة. وتدور أحداث المانجا حول فتى صغير يُدعى شين يطمح للغدو جنرالا عظيما فما هي العقبات التي سيواجهها وكم من الدماء سينزف من أجل تحقيق حلمه.",
   "artist": "ياسوهيسا هارا",
   "author": "ياسوهيسا هارا",
-  "cover": "https://3asq.online/wp-content/uploads/2024/03/01-1.jpg",
+  "cover": "https://3asq.online/wp-content/uploads/2024/03/01-1.jpg.webp",
   "chapters": {
     "1": {
       "title": "اليتيم",
@@ -11304,6 +11304,37 @@
           "https://cdn.imgchest.com/files/2841c9aae4d4.jpg",
           "https://cdn.imgchest.com/files/121922759256.jpg",
           "https://cdn.imgchest.com/files/4fe475e302c9.jpg",
+          ""
+        ]
+      }
+    },
+    "895": {
+      "title": "عينا ملك تشين",
+      "volume": "83",
+      "last_updated": "1795636538",
+      "groups": {
+        "WANteam": [
+          "https://cdn.imgchest.com/files/886dc4e52342.jpg",
+          "https://cdn.imgchest.com/files/350481467e0c.jpg",
+          "https://cdn.imgchest.com/files/209ca4915937.jpg",
+          "https://cdn.imgchest.com/files/9e6b8bd09005.jpg",
+          "https://cdn.imgchest.com/files/3abd2ad5f4ea.jpg",
+          "https://cdn.imgchest.com/files/6df014b7d8d4.jpg",
+          "https://cdn.imgchest.com/files/4418f8b7894b.jpg",
+          "https://cdn.imgchest.com/files/ca3d9b322986.jpg",
+          "https://cdn.imgchest.com/files/5e31845862bf.jpg",
+          "https://cdn.imgchest.com/files/6a18494df549.jpg",
+          "https://cdn.imgchest.com/files/0dc55b832acd.jpg",
+          "https://cdn.imgchest.com/files/9fcc4dae4853.jpg",
+          "https://cdn.imgchest.com/files/a699ff5538f0.jpg",
+          "https://cdn.imgchest.com/files/6e75c73087eb.jpg",
+          "https://cdn.imgchest.com/files/0d7379228be6.jpg",
+          "https://cdn.imgchest.com/files/e52cef7ea97f.jpg",
+          "https://cdn.imgchest.com/files/3afa1d4e256c.jpg",
+          "https://cdn.imgchest.com/files/54d51748ef50.jpg",
+          "https://cdn.imgchest.com/files/f1c9b631eb0d.jpg",
+          "https://cdn.imgchest.com/files/8693dd2914e5.jpg",
+          "https://cdn.imgchest.com/files/164a05a3bda5.jpg",
           ""
         ]
       }
